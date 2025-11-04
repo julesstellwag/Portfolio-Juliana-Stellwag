@@ -1,2 +1,2 @@
 # Portfolio-Juliana-Stellwag
-[Python Data Visualization Project](Data_Visualization_Project.ipynb)
+[Python Data Visualization Project](https://github.com/julesstellwag/datavisualizationproject/blob/main/Data_Visualization_Project.ipynb)
