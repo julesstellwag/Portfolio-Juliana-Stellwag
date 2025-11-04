@@ -1,2 +1,2 @@
 # Portfolio-Juliana-Stellwag
-[Data_Visualization_Project.ipynb](Python Data Visualization Project)
+[Python Data Visualization Project](Data_Visualization_Project.ipynb)
